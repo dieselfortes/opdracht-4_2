@@ -23,7 +23,11 @@ body {
   margin: 0;
   font-family: HelloHiFont, sans-serif;
  color: #111;
- background-image: url("image-4-3.jpg");
+ background-image: url("watch.png");
+ background-color: white;
+ background-repeat: no-repeat;
+ background-size: 450px;
+ background-position: right;
 }
 
 
